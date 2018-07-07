@@ -1,0 +1,3 @@
+eclipse.preferences.version=1
+validator.Checked=WebRoot/admin/product/productList.jsp,WebRoot/products.jsp,WebRoot/admin/category/categoryList.jsp,WebRoot/admin/admin/adminList.jsp
+validator.Unchecked=

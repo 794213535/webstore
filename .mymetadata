@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Webestore"
+  id="myeclipse.1452432219452"
+  context-root="/Webestore"
+  j2ee-spec="5.0"
+  archive="Webestore.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
